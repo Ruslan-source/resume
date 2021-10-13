@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.f920fc2f.chunk.css",
+    "main.js": "/resume/static/js/main.c98f20c1.chunk.js",
+    "main.js.map": "/resume/static/js/main.c98f20c1.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.c1dcf2ad.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.c1dcf2ad.js.map",
+    "static/css/2.4659568d.chunk.css": "/resume/static/css/2.4659568d.chunk.css",
+    "static/js/2.24e7f3df.chunk.js": "/resume/static/js/2.24e7f3df.chunk.js",
+    "static/js/2.24e7f3df.chunk.js.map": "/resume/static/js/2.24e7f3df.chunk.js.map",
+    "static/js/3.858dfb3f.chunk.js": "/resume/static/js/3.858dfb3f.chunk.js",
+    "static/js/3.858dfb3f.chunk.js.map": "/resume/static/js/3.858dfb3f.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/resume/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.f920fc2f.chunk.css.map": "/resume/static/css/main.f920fc2f.chunk.css.map",
+    "static/js/2.24e7f3df.chunk.js.LICENSE.txt": "/resume/static/js/2.24e7f3df.chunk.js.LICENSE.txt",
+    "static/media/EvMxmabsX3w.7912b654.jpg": "/resume/static/media/EvMxmabsX3w.7912b654.jpg",
+    "static/media/azyw7bIQOjI.aaa9063c.jpg": "/resume/static/media/azyw7bIQOjI.aaa9063c.jpg",
+    "static/media/ilon-mask-leave-tesla.ea8cf7f7.jpg": "/resume/static/media/ilon-mask-leave-tesla.ea8cf7f7.jpg",
+    "static/media/svet.79b7ac41.jpg": "/resume/static/media/svet.79b7ac41.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1dcf2ad.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.24e7f3df.chunk.js",
+    "static/css/main.f920fc2f.chunk.css",
+    "static/js/main.c98f20c1.chunk.js"
+  ]
+}
